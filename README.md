@@ -1,2 +1,2 @@
-# TIctactoe1
+# TIctactoe
 This is an example app
